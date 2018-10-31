@@ -9,6 +9,7 @@
     <p>
       <?php
       echo "gitの練習をしますよ";
+      echo "new_branchにしてからの変更"
       ?>
     </p>
   </body>
