@@ -11,6 +11,7 @@
       echo "gitの練習をしますよ";
       echo "new_branchにしてからの変更";
       echo "やばい記述";
+      echo "コンフリクト起これ";
       ?>
     </p>
   </body>
