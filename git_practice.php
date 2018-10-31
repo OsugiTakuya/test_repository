@@ -8,7 +8,7 @@
   <body>
     <p>
       <?php
-      echo "gitの練習をしますtest";
+      echo "gitの練習をしますよ";
       ?>
     </p>
   </body>
